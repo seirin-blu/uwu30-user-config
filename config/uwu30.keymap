@@ -25,10 +25,10 @@
 
         base {
             bindings = <
-                &kp Q  &kp W   &kp E   &kp R      &kp T      &kp Y      &kp U      &kp I      &kp O       &kp P
-                &hm LCTRL A    &kp S   &kp D      &kp F      &kp G      &kp H      &kp J      &kp K       &kp L       &kp ENTER
-                &hm LGUI Z     &kp X   &kp C      &kp V      &kp B      &kp N      &kp M      &kp COMMA   &kp PERIOD  &kp RSHIFT
-                &kp N1         &kp N2  &kp N3     &kp N4               &kp N5           &kp N6 &kp N7
+                &kp Q  &kp W   &kp E   &kp R      &kp T      &kp Y      &kp U      &kp I       &kp O       &kp P
+                &kp A  &kp S   &kp D   &kp F      &kp G      &kp H      &kp J      &kp K       &kp L       &kp SEMI
+                &kp Z  &kp X   &kp C   &kp V      &kp B      &kp N      &kp M      &kp COMMA   &kp PERIOD  &kp SLASH
+                &kp N1          &kp N2            &kp N3     &kp N4     &kp N5                 &kp N6      &kp N7
             >;
         };
     };
